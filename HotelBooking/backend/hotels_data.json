@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 1,
+        "location": "Lucknow",
+        "hotel_name": "Hotel Elite Lucknow",
+        "ratings": 1.4,
+        "original_price": 4923,
+        "discounted_price": 2452,
+        "number_of_ratings": 2800,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 2,
+        "location": "Thane",
+        "hotel_name": "Hotel Serene Thane",
+        "ratings": 1.2,
+        "original_price": 14652,
+        "discounted_price": 11937,
+        "number_of_ratings": 3921,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+5"
+    },
+    {
+        "id": 3,
+        "location": "Bhopal",
+        "hotel_name": "Hotel Elite Bhopal",
+        "ratings": 2.6,
+        "original_price": 3697,
+        "discounted_price": 1032,
+        "number_of_ratings": 1264,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+5"
+    },
+    {
+        "id": 4,
+        "location": "Visakhapatnam",
+        "hotel_name": "Hotel Oasis Visakhapatnam",
+        "ratings": 2.5,
+        "original_price": 14130,
+        "discounted_price": 11891,
+        "number_of_ratings": 2974,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+5"
+    },
+    {
+        "id": 5,
+        "location": "Visakhapatnam",
+        "hotel_name": "Hotel Serene Visakhapatnam",
+        "ratings": 2.0,
+        "original_price": 9142,
+        "discounted_price": 7040,
+        "number_of_ratings": 1738,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+2"
+    },
+    {
+        "id": 6,
+        "location": "Ghaziabad",
+        "hotel_name": "Hotel Serene Ghaziabad",
+        "ratings": 1.8,
+        "original_price": 10056,
+        "discounted_price": 8643,
+        "number_of_ratings": 1093,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+4"
+    },
+    {
+        "id": 7,
+        "location": "Surat",
+        "hotel_name": "Hotel Oasis Surat",
+        "ratings": 1.1,
+        "original_price": 4108,
+        "discounted_price": 3101,
+        "number_of_ratings": 3650,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+2"
+    },
+    {
+        "id": 8,
+        "location": "Surat",
+        "hotel_name": "Hotel Elite Surat",
+        "ratings": 1.6,
+        "original_price": 3471,
+        "discounted_price": 2888,
+        "number_of_ratings": 2401,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+3"
+    },
+    {
+        "id": 9,
+        "location": "Thane",
+        "hotel_name": "Hotel Haven Thane",
+        "ratings": 1.2,
+        "original_price": 5087,
+        "discounted_price": 3685,
+        "number_of_ratings": 1755,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+2"
+    },
+    {
+        "id": 10,
+        "location": "Vadodara",
+        "hotel_name": "Hotel Grand Vadodara",
+        "ratings": 4.6,
+        "original_price": 5518,
+        "discounted_price": 4449,
+        "number_of_ratings": 1899,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+2"
+    },
+    {
+        "id": 11,
+        "location": "Lucknow",
+        "hotel_name": "Hotel Oasis Lucknow",
+        "ratings": 2.0,
+        "original_price": 3468,
+        "discounted_price": 2026,
+        "number_of_ratings": 297,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 12,
+        "location": "Kanpur",
+        "hotel_name": "Hotel Paradise Kanpur",
+        "ratings": 4.5,
+        "original_price": 13086,
+        "discounted_price": 10754,
+        "number_of_ratings": 4560,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+4"
+    },
+    {
+        "id": 13,
+        "location": "Vadodara",
+        "hotel_name": "Hotel Haven Vadodara",
+        "ratings": 3.7,
+        "original_price": 3166,
+        "discounted_price": 2166,
+        "number_of_ratings": 399,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 14,
+        "location": "Indore",
+        "hotel_name": "Hotel Haven Indore",
+        "ratings": 2.8,
+        "original_price": 8620,
+        "discounted_price": 7601,
+        "number_of_ratings": 1486,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+5"
+    },
+    {
+        "id": 15,
+        "location": "Delhi",
+        "hotel_name": "Hotel Elite Delhi",
+        "ratings": 2.8,
+        "original_price": 14325,
+        "discounted_price": 11501,
+        "number_of_ratings": 1391,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+2"
+    },
+    {
+        "id": 16,
+        "location": "Ahmedabad",
+        "hotel_name": "Hotel Serene Ahmedabad",
+        "ratings": 4.9,
+        "original_price": 13447,
+        "discounted_price": 11131,
+        "number_of_ratings": 1692,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 17,
+        "location": "Pune",
+        "hotel_name": "Hotel Haven Pune",
+        "ratings": 3.2,
+        "original_price": 7686,
+        "discounted_price": 6066,
+        "number_of_ratings": 4409,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+3"
+    },
+    {
+        "id": 18,
+        "location": "Ahmedabad",
+        "hotel_name": "Hotel Elite Ahmedabad",
+        "ratings": 3.6,
+        "original_price": 8354,
+        "discounted_price": 6040,
+        "number_of_ratings": 1610,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+5"
+    },
+    {
+        "id": 19,
+        "location": "Ahmedabad",
+        "hotel_name": "Hotel Grand Ahmedabad",
+        "ratings": 5.0,
+        "original_price": 6799,
+        "discounted_price": 5902,
+        "number_of_ratings": 3541,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+4"
+    },
+    {
+        "id": 20,
+        "location": "Kolkata",
+        "hotel_name": "Hotel Serene Kolkata",
+        "ratings": 4.7,
+        "original_price": 14252,
+        "discounted_price": 13456,
+        "number_of_ratings": 440,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 21,
+        "location": "Jaipur",
+        "hotel_name": "Hotel Serene Jaipur",
+        "ratings": 1.2,
+        "original_price": 14133,
+        "discounted_price": 13109,
+        "number_of_ratings": 2944,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+4"
+    },
+    {
+        "id": 22,
+        "location": "Surat",
+        "hotel_name": "Hotel Haven Surat",
+        "ratings": 1.3,
+        "original_price": 10416,
+        "discounted_price": 8958,
+        "number_of_ratings": 4853,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 23,
+        "location": "Patna",
+        "hotel_name": "Hotel Haven Patna",
+        "ratings": 3.8,
+        "original_price": 9957,
+        "discounted_price": 6986,
+        "number_of_ratings": 3381,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 24,
+        "location": "Indore",
+        "hotel_name": "Hotel Oasis Indore",
+        "ratings": 2.1,
+        "original_price": 7215,
+        "discounted_price": 4567,
+        "number_of_ratings": 2543,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+3"
+    },
+    {
+        "id": 25,
+        "location": "Visakhapatnam",
+        "hotel_name": "Hotel Elite Visakhapatnam",
+        "ratings": 1.2,
+        "original_price": 12848,
+        "discounted_price": 10935,
+        "number_of_ratings": 3538,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 26,
+        "location": "Hyderabad",
+        "hotel_name": "Hotel Serene Hyderabad",
+        "ratings": 2.1,
+        "original_price": 8801,
+        "discounted_price": 7038,
+        "number_of_ratings": 3349,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 27,
+        "location": "Jaipur",
+        "hotel_name": "Hotel Haven Jaipur",
+        "ratings": 4.5,
+        "original_price": 10026,
+        "discounted_price": 8836,
+        "number_of_ratings": 3242,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+2"
+    },
+    {
+        "id": 28,
+        "location": "Ghaziabad",
+        "hotel_name": "Hotel Paradise Ghaziabad",
+        "ratings": 4.6,
+        "original_price": 8763,
+        "discounted_price": 6041,
+        "number_of_ratings": 1618,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+3"
+    },
+    {
+        "id": 29,
+        "location": "Kanpur",
+        "hotel_name": "Hotel Elite Kanpur",
+        "ratings": 3.3,
+        "original_price": 9121,
+        "discounted_price": 7483,
+        "number_of_ratings": 4917,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+5"
+    },
+    {
+        "id": 30,
+        "location": "Lucknow",
+        "hotel_name": "Hotel Haven Lucknow",
+        "ratings": 2.7,
+        "original_price": 11149,
+        "discounted_price": 10243,
+        "number_of_ratings": 1749,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+4"
+    },
+    {
+        "id": 31,
+        "location": "Ghaziabad",
+        "hotel_name": "Hotel Grand Ghaziabad",
+        "ratings": 2.7,
+        "original_price": 6922,
+        "discounted_price": 6152,
+        "number_of_ratings": 2724,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+3"
+    },
+    {
+        "id": 32,
+        "location": "Nagpur",
+        "hotel_name": "Hotel Paradise Nagpur",
+        "ratings": 5.0,
+        "original_price": 6376,
+        "discounted_price": 4129,
+        "number_of_ratings": 1378,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+3"
+    },
+    {
+        "id": 33,
+        "location": "Chennai",
+        "hotel_name": "Hotel Paradise Chennai",
+        "ratings": 4.2,
+        "original_price": 4817,
+        "discounted_price": 3433,
+        "number_of_ratings": 2080,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+5"
+    },
+    {
+        "id": 34,
+        "location": "Kolkata",
+        "hotel_name": "Hotel Oasis Kolkata",
+        "ratings": 4.3,
+        "original_price": 4959,
+        "discounted_price": 3295,
+        "number_of_ratings": 3317,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 35,
+        "location": "Bhopal",
+        "hotel_name": "Hotel Elite Bhopal",
+        "ratings": 3.9,
+        "original_price": 12860,
+        "discounted_price": 10255,
+        "number_of_ratings": 4736,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 36,
+        "location": "Jaipur",
+        "hotel_name": "Hotel Paradise Jaipur",
+        "ratings": 2.9,
+        "original_price": 7744,
+        "discounted_price": 4784,
+        "number_of_ratings": 1885,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+2"
+    },
+    {
+        "id": 37,
+        "location": "Patna",
+        "hotel_name": "Hotel Elite Patna",
+        "ratings": 4.5,
+        "original_price": 5634,
+        "discounted_price": 3003,
+        "number_of_ratings": 2400,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+5"
+    },
+    {
+        "id": 38,
+        "location": "Kolkata",
+        "hotel_name": "Hotel Serene Kolkata",
+        "ratings": 1.6,
+        "original_price": 7269,
+        "discounted_price": 4373,
+        "number_of_ratings": 3260,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 39,
+        "location": "Lucknow",
+        "hotel_name": "Hotel Oasis Lucknow",
+        "ratings": 3.1,
+        "original_price": 13785,
+        "discounted_price": 13244,
+        "number_of_ratings": 2325,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+2"
+    },
+    {
+        "id": 40,
+        "location": "Ahmedabad",
+        "hotel_name": "Hotel Paradise Ahmedabad",
+        "ratings": 1.6,
+        "original_price": 3609,
+        "discounted_price": 2838,
+        "number_of_ratings": 3266,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+2"
+    },
+    {
+        "id": 41,
+        "location": "Vadodara",
+        "hotel_name": "Hotel Paradise Vadodara",
+        "ratings": 3.0,
+        "original_price": 4214,
+        "discounted_price": 1417,
+        "number_of_ratings": 2199,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+3"
+    },
+    {
+        "id": 42,
+        "location": "Indore",
+        "hotel_name": "Hotel Haven Indore",
+        "ratings": 1.4,
+        "original_price": 7394,
+        "discounted_price": 6651,
+        "number_of_ratings": 3803,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+2"
+    },
+    {
+        "id": 43,
+        "location": "Vadodara",
+        "hotel_name": "Hotel Oasis Vadodara",
+        "ratings": 2.5,
+        "original_price": 14529,
+        "discounted_price": 11917,
+        "number_of_ratings": 2108,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+3"
+    },
+    {
+        "id": 44,
+        "location": "Hyderabad",
+        "hotel_name": "Hotel Grand Hyderabad",
+        "ratings": 4.4,
+        "original_price": 10345,
+        "discounted_price": 8587,
+        "number_of_ratings": 554,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+3"
+    },
+    {
+        "id": 45,
+        "location": "Bangalore",
+        "hotel_name": "Hotel Haven Bangalore",
+        "ratings": 3.8,
+        "original_price": 5457,
+        "discounted_price": 4814,
+        "number_of_ratings": 4074,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+4"
+    },
+    {
+        "id": 46,
+        "location": "Ghaziabad",
+        "hotel_name": "Hotel Grand Ghaziabad",
+        "ratings": 2.0,
+        "original_price": 4078,
+        "discounted_price": 2361,
+        "number_of_ratings": 2782,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 47,
+        "location": "Vadodara",
+        "hotel_name": "Hotel Haven Vadodara",
+        "ratings": 4.2,
+        "original_price": 14629,
+        "discounted_price": 12523,
+        "number_of_ratings": 3853,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+2"
+    },
+    {
+        "id": 48,
+        "location": "Nagpur",
+        "hotel_name": "Hotel Elite Nagpur",
+        "ratings": 2.5,
+        "original_price": 7867,
+        "discounted_price": 6741,
+        "number_of_ratings": 1018,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+4"
+    },
+    {
+        "id": 49,
+        "location": "Ghaziabad",
+        "hotel_name": "Hotel Elite Ghaziabad",
+        "ratings": 2.0,
+        "original_price": 13539,
+        "discounted_price": 10783,
+        "number_of_ratings": 1345,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+3"
+    },
+    {
+        "id": 50,
+        "location": "Ghaziabad",
+        "hotel_name": "Hotel Grand Ghaziabad",
+        "ratings": 2.1,
+        "original_price": 12812,
+        "discounted_price": 10315,
+        "number_of_ratings": 2843,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+4"
+    },
+    {
+        "id": 51,
+        "location": "Chennai",
+        "hotel_name": "Hotel Grand Chennai",
+        "ratings": 2.2,
+        "original_price": 13058,
+        "discounted_price": 10667,
+        "number_of_ratings": 4937,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 52,
+        "location": "Bhopal",
+        "hotel_name": "Hotel Grand Bhopal",
+        "ratings": 2.1,
+        "original_price": 3771,
+        "discounted_price": 2662,
+        "number_of_ratings": 2948,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 53,
+        "location": "Chennai",
+        "hotel_name": "Hotel Elite Chennai",
+        "ratings": 3.8,
+        "original_price": 8012,
+        "discounted_price": 7019,
+        "number_of_ratings": 4285,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+3"
+    },
+    {
+        "id": 54,
+        "location": "Kolkata",
+        "hotel_name": "Hotel Elite Kolkata",
+        "ratings": 2.7,
+        "original_price": 14765,
+        "discounted_price": 12932,
+        "number_of_ratings": 4227,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+4"
+    },
+    {
+        "id": 55,
+        "location": "Hyderabad",
+        "hotel_name": "Hotel Haven Hyderabad",
+        "ratings": 3.3,
+        "original_price": 9461,
+        "discounted_price": 6572,
+        "number_of_ratings": 2830,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 56,
+        "location": "Surat",
+        "hotel_name": "Hotel Haven Surat",
+        "ratings": 3.5,
+        "original_price": 12960,
+        "discounted_price": 11442,
+        "number_of_ratings": 3103,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 57,
+        "location": "Patna",
+        "hotel_name": "Hotel Serene Patna",
+        "ratings": 3.8,
+        "original_price": 7939,
+        "discounted_price": 5799,
+        "number_of_ratings": 4158,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 58,
+        "location": "Delhi",
+        "hotel_name": "Hotel Elite Delhi",
+        "ratings": 4.0,
+        "original_price": 5936,
+        "discounted_price": 4132,
+        "number_of_ratings": 2925,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+4"
+    },
+    {
+        "id": 59,
+        "location": "Pune",
+        "hotel_name": "Hotel Grand Pune",
+        "ratings": 3.6,
+        "original_price": 12879,
+        "discounted_price": 12176,
+        "number_of_ratings": 1866,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+5"
+    },
+    {
+        "id": 60,
+        "location": "Ghaziabad",
+        "hotel_name": "Hotel Haven Ghaziabad",
+        "ratings": 3.3,
+        "original_price": 4186,
+        "discounted_price": 3662,
+        "number_of_ratings": 4825,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+4"
+    },
+    {
+        "id": 61,
+        "location": "Ahmedabad",
+        "hotel_name": "Hotel Oasis Ahmedabad",
+        "ratings": 1.6,
+        "original_price": 3104,
+        "discounted_price": 944,
+        "number_of_ratings": 1167,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+3"
+    },
+    {
+        "id": 62,
+        "location": "Delhi",
+        "hotel_name": "Hotel Elite Delhi",
+        "ratings": 3.7,
+        "original_price": 7368,
+        "discounted_price": 6036,
+        "number_of_ratings": 145,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+2"
+    },
+    {
+        "id": 63,
+        "location": "Bhopal",
+        "hotel_name": "Hotel Grand Bhopal",
+        "ratings": 3.4,
+        "original_price": 6842,
+        "discounted_price": 5225,
+        "number_of_ratings": 3687,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+3"
+    },
+    {
+        "id": 64,
+        "location": "Kanpur",
+        "hotel_name": "Hotel Oasis Kanpur",
+        "ratings": 1.8,
+        "original_price": 14641,
+        "discounted_price": 13010,
+        "number_of_ratings": 4422,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+3"
+    },
+    {
+        "id": 65,
+        "location": "Pune",
+        "hotel_name": "Hotel Grand Pune",
+        "ratings": 2.9,
+        "original_price": 5965,
+        "discounted_price": 4276,
+        "number_of_ratings": 2873,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 66,
+        "location": "Visakhapatnam",
+        "hotel_name": "Hotel Serene Visakhapatnam",
+        "ratings": 3.7,
+        "original_price": 4046,
+        "discounted_price": 1658,
+        "number_of_ratings": 1546,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+2"
+    },
+    {
+        "id": 67,
+        "location": "Kanpur",
+        "hotel_name": "Hotel Oasis Kanpur",
+        "ratings": 1.1,
+        "original_price": 12445,
+        "discounted_price": 10029,
+        "number_of_ratings": 1682,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+3"
+    },
+    {
+        "id": 68,
+        "location": "Patna",
+        "hotel_name": "Hotel Paradise Patna",
+        "ratings": 1.2,
+        "original_price": 8339,
+        "discounted_price": 5973,
+        "number_of_ratings": 1640,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+5"
+    },
+    {
+        "id": 69,
+        "location": "Ahmedabad",
+        "hotel_name": "Hotel Serene Ahmedabad",
+        "ratings": 2.6,
+        "original_price": 7910,
+        "discounted_price": 6076,
+        "number_of_ratings": 2993,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+4"
+    },
+    {
+        "id": 70,
+        "location": "Ahmedabad",
+        "hotel_name": "Hotel Oasis Ahmedabad",
+        "ratings": 3.6,
+        "original_price": 5137,
+        "discounted_price": 2392,
+        "number_of_ratings": 602,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+5"
+    },
+    {
+        "id": 71,
+        "location": "Patna",
+        "hotel_name": "Hotel Paradise Patna",
+        "ratings": 2.4,
+        "original_price": 4712,
+        "discounted_price": 3654,
+        "number_of_ratings": 157,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+2"
+    },
+    {
+        "id": 72,
+        "location": "Vadodara",
+        "hotel_name": "Hotel Paradise Vadodara",
+        "ratings": 4.1,
+        "original_price": 8915,
+        "discounted_price": 6904,
+        "number_of_ratings": 3298,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 73,
+        "location": "Kolkata",
+        "hotel_name": "Hotel Elite Kolkata",
+        "ratings": 1.6,
+        "original_price": 10532,
+        "discounted_price": 9413,
+        "number_of_ratings": 3524,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+5"
+    },
+    {
+        "id": 74,
+        "location": "Nagpur",
+        "hotel_name": "Hotel Oasis Nagpur",
+        "ratings": 5.0,
+        "original_price": 8175,
+        "discounted_price": 6241,
+        "number_of_ratings": 1255,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+2"
+    },
+    {
+        "id": 75,
+        "location": "Kanpur",
+        "hotel_name": "Hotel Serene Kanpur",
+        "ratings": 1.9,
+        "original_price": 12468,
+        "discounted_price": 10332,
+        "number_of_ratings": 2523,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+2"
+    },
+    {
+        "id": 76,
+        "location": "Mumbai",
+        "hotel_name": "Hotel Haven Mumbai",
+        "ratings": 1.3,
+        "original_price": 10402,
+        "discounted_price": 8387,
+        "number_of_ratings": 1999,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 77,
+        "location": "Bangalore",
+        "hotel_name": "Hotel Elite Bangalore",
+        "ratings": 1.1,
+        "original_price": 8677,
+        "discounted_price": 6824,
+        "number_of_ratings": 4931,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+4"
+    },
+    {
+        "id": 78,
+        "location": "Surat",
+        "hotel_name": "Hotel Paradise Surat",
+        "ratings": 1.8,
+        "original_price": 3967,
+        "discounted_price": 3203,
+        "number_of_ratings": 4407,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+3"
+    },
+    {
+        "id": 79,
+        "location": "Bangalore",
+        "hotel_name": "Hotel Serene Bangalore",
+        "ratings": 4.3,
+        "original_price": 9148,
+        "discounted_price": 7950,
+        "number_of_ratings": 735,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+2"
+    },
+    {
+        "id": 80,
+        "location": "Pune",
+        "hotel_name": "Hotel Paradise Pune",
+        "ratings": 3.6,
+        "original_price": 11672,
+        "discounted_price": 9765,
+        "number_of_ratings": 3324,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+5"
+    },
+    {
+        "id": 81,
+        "location": "Chennai",
+        "hotel_name": "Hotel Oasis Chennai",
+        "ratings": 1.8,
+        "original_price": 8396,
+        "discounted_price": 6235,
+        "number_of_ratings": 4604,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+3"
+    },
+    {
+        "id": 82,
+        "location": "Hyderabad",
+        "hotel_name": "Hotel Paradise Hyderabad",
+        "ratings": 4.7,
+        "original_price": 8320,
+        "discounted_price": 6591,
+        "number_of_ratings": 991,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+5"
+    },
+    {
+        "id": 83,
+        "location": "Thane",
+        "hotel_name": "Hotel Grand Thane",
+        "ratings": 4.5,
+        "original_price": 5017,
+        "discounted_price": 3485,
+        "number_of_ratings": 3559,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 84,
+        "location": "Mumbai",
+        "hotel_name": "Hotel Grand Mumbai",
+        "ratings": 2.6,
+        "original_price": 14194,
+        "discounted_price": 12416,
+        "number_of_ratings": 3656,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+4"
+    },
+    {
+        "id": 85,
+        "location": "Chennai",
+        "hotel_name": "Hotel Elite Chennai",
+        "ratings": 1.3,
+        "original_price": 10591,
+        "discounted_price": 8125,
+        "number_of_ratings": 2238,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 86,
+        "location": "Vadodara",
+        "hotel_name": "Hotel Haven Vadodara",
+        "ratings": 2.7,
+        "original_price": 9153,
+        "discounted_price": 7724,
+        "number_of_ratings": 1779,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 87,
+        "location": "Delhi",
+        "hotel_name": "Hotel Haven Delhi",
+        "ratings": 3.4,
+        "original_price": 14828,
+        "discounted_price": 12582,
+        "number_of_ratings": 4703,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 88,
+        "location": "Bangalore",
+        "hotel_name": "Hotel Paradise Bangalore",
+        "ratings": 5.0,
+        "original_price": 10573,
+        "discounted_price": 8980,
+        "number_of_ratings": 278,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 89,
+        "location": "Bangalore",
+        "hotel_name": "Hotel Paradise Bangalore",
+        "ratings": 4.1,
+        "original_price": 8215,
+        "discounted_price": 6873,
+        "number_of_ratings": 1135,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+4"
+    },
+    {
+        "id": 90,
+        "location": "Delhi",
+        "hotel_name": "Hotel Elite Delhi",
+        "ratings": 2.3,
+        "original_price": 7733,
+        "discounted_price": 4998,
+        "number_of_ratings": 3985,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 91,
+        "location": "Ghaziabad",
+        "hotel_name": "Hotel Haven Ghaziabad",
+        "ratings": 3.7,
+        "original_price": 12845,
+        "discounted_price": 9996,
+        "number_of_ratings": 2269,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+3"
+    },
+    {
+        "id": 92,
+        "location": "Mumbai",
+        "hotel_name": "Hotel Grand Mumbai",
+        "ratings": 4.5,
+        "original_price": 12304,
+        "discounted_price": 11537,
+        "number_of_ratings": 3222,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+2"
+    },
+    {
+        "id": 93,
+        "location": "Thane",
+        "hotel_name": "Hotel Elite Thane",
+        "ratings": 4.3,
+        "original_price": 11280,
+        "discounted_price": 9898,
+        "number_of_ratings": 3800,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 94,
+        "location": "Chennai",
+        "hotel_name": "Hotel Serene Chennai",
+        "ratings": 3.0,
+        "original_price": 5153,
+        "discounted_price": 2318,
+        "number_of_ratings": 315,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 95,
+        "location": "Chennai",
+        "hotel_name": "Hotel Grand Chennai",
+        "ratings": 3.9,
+        "original_price": 10003,
+        "discounted_price": 9326,
+        "number_of_ratings": 3588,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+4"
+    },
+    {
+        "id": 96,
+        "location": "Thane",
+        "hotel_name": "Hotel Elite Thane",
+        "ratings": 2.9,
+        "original_price": 9637,
+        "discounted_price": 8367,
+        "number_of_ratings": 3599,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 97,
+        "location": "Hyderabad",
+        "hotel_name": "Hotel Serene Hyderabad",
+        "ratings": 3.8,
+        "original_price": 13078,
+        "discounted_price": 11461,
+        "number_of_ratings": 4925,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+1"
+    },
+    {
+        "id": 98,
+        "location": "Patna",
+        "hotel_name": "Hotel Grand Patna",
+        "ratings": 1.0,
+        "original_price": 14369,
+        "discounted_price": 11862,
+        "number_of_ratings": 1395,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+3"
+    },
+    {
+        "id": 99,
+        "location": "Kolkata",
+        "hotel_name": "Hotel Serene Kolkata",
+        "ratings": 3.8,
+        "original_price": 12018,
+        "discounted_price": 11412,
+        "number_of_ratings": 3982,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+5"
+    },
+    {
+        "id": 100,
+        "location": "Lucknow",
+        "hotel_name": "Hotel Elite Lucknow",
+        "ratings": 4.3,
+        "original_price": 6572,
+        "discounted_price": 4708,
+        "number_of_ratings": 4904,
+        "hotel_image": "https://via.placeholder.com/300x200?text=Hotel+Image+3"
+    }
+]

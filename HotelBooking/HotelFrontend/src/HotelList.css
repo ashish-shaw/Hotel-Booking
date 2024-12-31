@@ -1,0 +1,73 @@
+.hotel-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.hotel-items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  width: 100%;
+  max-width: 1200px;
+}
+
+.hotel-item {
+  background-color: white;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  width: 32%;
+  margin-bottom: 20px; 
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out;
+}
+
+.hotel-item:hover {
+  transform: translateY(-5px);
+}
+
+.hotel-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.hotel-info {
+  padding: 15px;
+}
+
+.hotel-info h3 {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.hotel-info p {
+  color: #777;
+  margin: 5px 0;
+}
+
+.hotel-info .price {
+  font-size: 18px;
+  font-weight: bold;
+  color: #e74c3c;
+}
+
+.hotel-info .original-price {
+  text-decoration: line-through;
+  color: #888;
+}
+
+@media (max-width: 768px) {
+  .hotel-item {
+    width: 48%;
+  }
+}
+
+@media (max-width: 480px) {
+  .hotel-item {
+    width: 100%;
+  }
+}
